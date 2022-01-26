@@ -1,0 +1,63 @@
+
+.our--package{
+    margin-top: 100px;
+   }
+.outer{
+    margin-top: 25px;
+    transform: rotate(35deg);
+}
+.heilight--card{
+    margin-top: -90px;
+}
+.cards--area{
+    margin-top: 150px;
+}
+.heilight--btn{
+    margin-left: 60px;
+}
+.card--body,
+.tamplate--paragraph,
+.tamplate---title,
+.price{
+    margin-left: 30px;
+}
+.card-img-top{
+   margin-left: 150px;
+}
+.contact--area{
+    margin-top: 60px;
+}
+.mdi-36px {
+    font-size: 39px;
+    margin-right: 10px
+}
+.footer-btn a{
+    list-style: none;
+    text-decoration: none;
+    color: azure;
+}
+@media screen and (max-width: 992px) {
+  
+    .card-img-top{
+        margin-left: 80px;
+     }
+     .google--mp{
+        width: 600px;
+        height: 600px;
+    }
+    
+
+}
+
+@media screen and (max-width: 600px) {
+   
+    .card-img-top{
+        margin-left: 150px;
+     }
+
+.google--mp{
+    width: 400px;
+    height: 600px;
+}
+
+  }
